@@ -1,0 +1,35 @@
+// GroupPage.getGroups().then( function ( array ) {
+
+		// 	 _.forEach( array, function ( element, index ) {
+		// 	 	Promise.all( [
+		// 	 		GroupPage.clickGroup( index ),
+		// 	 		GroupPage.getGroupName()
+		// 	 	] ).spread( function ( click, groupName ) {
+		// 	 		console.log( groupName );
+		//  			IndicatorsPage.getIndicators().then( function ( array ) {
+		// 	 			_.forEach( array, function ( element ) {
+		// 	 				Promise.all( [
+		// 						IndicatorsPage.getIndicatorType( element ),
+		// 						IndicatorsPage.getIndicatorTitle( element )
+		// 					] ).spread( function ( indicator, title ) {
+		// 						console.log( indicator + ': ' + title );
+		// 						if( indicator === 'Multiple Choice' ) {
+
+		// 						}
+		// 					} );
+		//  				} );
+		// 			} );
+		// 	 	} );
+		// 	} );
+		// } );
+
+
+
+
+//james version
+	// return GroupPage.getGroups().then( function ( array ) {
+	// 	return Promise.all(
+	// 		_.map( array, function ( element, index ) {
+	// 			return GroupPage.clickGroup( index ).then( GroupPage.getGroupName );
+	// 		} )
+	// 	);

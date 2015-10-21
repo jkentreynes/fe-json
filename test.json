@@ -1,0 +1,155 @@
+{
+    "types": [
+        "Self",
+        "Peer",
+        "Informal",
+        "Formal",
+        "Other"
+    ],
+    "tags": [],
+    "groups": [
+        {
+            "name": "Group 1",
+            "id": "88e33c86-218c-4628-aaf4-a2becfac86b1",
+            "indicators": [
+                {
+                    "type": 1,
+                    "questionText": "What is the meaning of Life?",
+                    "id": "adcbe940-cc33-4d9a-a8b6-e41708ecfaa6",
+                    "templateAttachments": []
+                },
+                {
+                    "type": 4,
+                    "questionText": "Group 1 Rubric",
+                    "answerOptions": [
+                        {
+                            "optionText": "Excellent",
+                            "description": "Excellent performance",
+                            "selected": false,
+                            "type": 2,
+                            "id": "9f46e5e6-dce4-4cce-ad07-4a6faa016cee"
+                        },
+                        {
+                            "optionText": "Poor",
+                            "description": "Poor Performance",
+                            "selected": false,
+                            "type": 2,
+                            "id": "153dfd15-0c32-4316-a101-2a46e18dfc77"
+                        }
+                    ],
+                    "id": "865d140b-1bff-49d7-ba82-ba536052cf2a",
+                    "templateAttachments": []
+                },
+                {
+                    "type": 2,
+                    "questionText": "Right or wrong?",
+                    "answerOptions": [
+                        {
+                            "optionText": "Right",
+                            "type": 2,
+                            "id": "41f8d181-cd9b-4f4d-8e0e-befc13ecfbf1",
+                            "selected": false,
+                            "subOptions": [
+                                {
+                                    "id": "02db0169-35ab-4e6e-b6df-2e76312995f9",
+                                    "optionText": "Sub-option 1",
+                                    "type": 2,
+                                    "selected": false
+                                },
+                                {
+                                    "id": "10321d5d-e58a-4455-97c8-8c796c7af3ed",
+                                    "optionText": "Sub-option 2",
+                                    "type": 2,
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "optionText": "Wrong",
+                            "type": 2,
+                            "id": "ec8622b6-ad53-484b-aa1f-fa897e6cb822",
+                            "selected": false
+                        }
+                    ],
+                    "id": "1c662519-e10f-4fbf-befa-dd28f27aabe6",
+                    "score": 0,
+                    "templateAttachments": []
+                },
+                {
+                    "type": 5,
+                    "questionText": "Group 1 Label",
+                    "id": "359f75c2-cd1c-4c1b-b4c2-59c399525e18",
+                    "templateAttachments": []
+                }
+            ],
+            "templateAttachments": []
+        },
+        {
+            "name": "Group 2",
+            "id": "3b38d570-08bb-4df4-b321-f12d38714643",
+            "indicators": [
+                {
+                    "type": 5,
+                    "questionText": "Group 2 Label",
+                    "id": "20c3b07a-e91d-4cf7-affa-5b4a7fe6dfce",
+                    "templateAttachments": []
+                },
+                {
+                    "type": 2,
+                    "questionText": "Wrong or Right?",
+                    "answerOptions": [
+                        {
+                            "optionText": "Wrong",
+                            "type": 2,
+                            "id": "03d3a22e-ca84-4f46-9b34-ff3a19fa842e",
+                            "selected": false
+                        },
+                        {
+                            "optionText": "Right",
+                            "type": 2,
+                            "id": "79ea2a75-19f4-4186-8c1b-0a70fb373144",
+                            "selected": false
+                        }
+                    ],
+                    "id": "062e855e-93ff-499a-95cd-c6e78b79d863",
+                    "score": 0,
+                    "templateAttachments": []
+                },
+                {
+                    "type": 1,
+                    "questionText": "What has life to offer me when I grow old?",
+                    "id": "fe46eddd-f9d7-4bc7-882d-c343ef3f17ac",
+                    "templateAttachments": []
+                },
+                {
+                    "type": 4,
+                    "questionText": "Group 2 Performance Rubric",
+                    "answerOptions": [
+                        {
+                            "optionText": "Good",
+                            "description": "Good Performance",
+                            "selected": false,
+                            "type": 2,
+                            "id": "beabfc97-0315-481a-8992-573ad074dc7f"
+                        },
+                        {
+                            "optionText": "Needs Improvement",
+                            "description": "Needs more improvement",
+                            "selected": false,
+                            "type": 2,
+                            "id": "8936b384-e658-4421-9b43-e2d7e3c05d06"
+                        }
+                    ],
+                    "id": "aac28d4c-d204-4a96-a40c-9519fd96ec97",
+                    "templateAttachments": []
+                }
+            ],
+            "templateAttachments": []
+        }
+    ],
+    "creator": {
+        "id": "13778"
+    },
+    "name": "Data-Driven Template",
+    "id": "5695784d-3b3a-4c66-9eb6-794f296de514"
+}
