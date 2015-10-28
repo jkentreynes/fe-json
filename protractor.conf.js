@@ -34,7 +34,7 @@ exports.config = {
 	'jasmineNodeOpts' : {
 		'showColors'             : true, // Use colors in the command line report.
 		'defaultTimeoutInterval' : 1200000,
-		'print'                  : function () {}
+		// 'print'                  : function () {}
 	},
 
 	// Set the browser's window size

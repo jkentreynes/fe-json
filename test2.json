@@ -1,0 +1,205 @@
+{
+    "types": [
+        "Self",
+        "Peer",
+        "Informal",
+        "Formal",
+        "Other"
+    ],
+    "tags": [],
+    "groups": [
+        {
+            "name": "Group 1",
+            "id": "d3386137-a6b2-46ac-8e62-218f33ba7c73",
+            "indicators": [
+                {
+                    "type": 1,
+                    "questionText": "Untitled Open-Ended",
+                    "id": "405324a2-0214-49c2-8b6c-ab67c11f4498",
+                    "templateAttachments": []
+                },
+                {
+                    "type": 2,
+                    "questionText": "Untitled Multiple Choice",
+                    "answerOptions": [
+                        {
+                            "optionText": "Option 1",
+                            "type": 2,
+                            "id": "ab7b498f-4504-4833-94fc-eef278c2b70e",
+                            "selected": false
+                        },
+                        {
+                            "optionText": "Option 2",
+                            "type": 2,
+                            "id": "c7081c1c-eb00-4398-b2e6-5a8377f8441e",
+                            "selected": false
+                        }
+                    ],
+                    "id": "084fd1b1-2cb1-4759-8c82-9aa3bace3a11",
+                    "score": 0,
+                    "templateAttachments": []
+                },
+                {
+                    "type": 4,
+                    "questionText": "Untitled Rubric",
+                    "answerOptions": [
+                        {
+                            "optionText": "Title 1",
+                            "description": "Description 1",
+                            "type": 2,
+                            "id": "85e8747b-4377-4d1f-81c1-65060eaf244b",
+                            "selected": false
+                        },
+                        {
+                            "optionText": "Title 2",
+                            "description": "Description 2",
+                            "type": 2,
+                            "id": "75e16266-11a6-41c7-a7f2-88438eb67136",
+                            "selected": false
+                        }
+                    ],
+                    "id": "5a0404d7-37ff-4e9a-bad0-b07904d476ed",
+                    "templateAttachments": []
+                },
+                {
+                    "type": 5,
+                    "questionText": "Untitled Label",
+                    "id": "4287f929-1c9a-4b51-aa96-66d4fdfcafc6",
+                    "templateAttachments": []
+                }
+            ],
+            "templateAttachments": []
+        },
+        {
+            "name": "Group 2",
+            "id": "5c8839b7-8a57-41fa-a166-fc6475d1441e",
+            "indicators": [
+                {
+                    "type": 5,
+                    "questionText": "Untitled Label",
+                    "id": "2d5456b4-a51a-485d-89ee-9718ff5cc6c7",
+                    "templateAttachments": []
+                },
+                {
+                    "type": 4,
+                    "questionText": "Untitled Rubric",
+                    "answerOptions": [
+                        {
+                            "optionText": "Title 1",
+                            "description": "Description 1",
+                            "type": 2,
+                            "id": "e536d18c-da0d-4dcd-a04b-34810932fbda",
+                            "selected": false
+                        },
+                        {
+                            "optionText": "Title 2",
+                            "description": "Description 2",
+                            "type": 2,
+                            "id": "147bc645-ef76-4744-b019-3b795d1a9870",
+                            "selected": false
+                        }
+                    ],
+                    "id": "09fd71cc-338d-4288-89b7-6cbdec9ea84d",
+                    "templateAttachments": []
+                },
+                {
+                    "type": 2,
+                    "questionText": "Untitled Multiple Choice",
+                    "answerOptions": [
+                        {
+                            "optionText": "Option 1",
+                            "type": 2,
+                            "id": "17c1040d-db9f-49c8-ba57-22ec58363ac2",
+                            "selected": false
+                        },
+                        {
+                            "optionText": "Option 2",
+                            "type": 2,
+                            "id": "b877d2db-1d0c-4d88-94fa-226118b73daf",
+                            "selected": false
+                        }
+                    ],
+                    "id": "6b8925df-9f94-445d-9a28-c14c7a44e8e5",
+                    "score": 0,
+                    "templateAttachments": []
+                },
+                {
+                    "type": 1,
+                    "questionText": "Untitled Open-Ended",
+                    "id": "83862628-e3c1-4d59-9030-f31105455ce8",
+                    "templateAttachments": []
+                }
+            ],
+            "templateAttachments": []
+        },
+        {
+            "name": "Group 3",
+            "id": "bb170a97-c133-404d-9677-202df9235085",
+            "indicators": [
+                {
+                    "type": 2,
+                    "questionText": "Untitled Multiple Choice",
+                    "answerOptions": [
+                        {
+                            "optionText": "Option 1",
+                            "type": 2,
+                            "id": "98513f2b-a88f-4612-abeb-992988a6fef9",
+                            "selected": false
+                        },
+                        {
+                            "optionText": "Option 2",
+                            "type": 2,
+                            "id": "5f60f247-4bf2-4df0-826c-ba0a542dea16",
+                            "selected": false
+                        }
+                    ],
+                    "id": "0de018e4-8233-4949-9cb1-0e31983e2501",
+                    "score": 0,
+                    "templateAttachments": []
+                },
+                {
+                    "type": 1,
+                    "questionText": "Untitled Open-Ended",
+                    "id": "1881aebe-475f-4a60-aa7b-ea5ae7fec69e",
+                    "templateAttachments": []
+                },
+                {
+                    "type": 4,
+                    "questionText": "Untitled Rubric",
+                    "answerOptions": [
+                        {
+                            "optionText": "Title 1",
+                            "description": "Description 1",
+                            "type": 2,
+                            "id": "6638baaa-2fbf-4976-83bc-3645a3b20867c",
+                            "selected": false
+                        },
+                        {
+                            "optionText": "Title 2",
+                            "description": "Description 2",
+                            "type": 2,
+                            "id": "744e5ca5-e85f-471f-ab2f-ec645a4395fb",
+                            "selected": false
+                        }
+                    ],
+                    "id": "686c4790-adb3-490e-b86d-573bc213f67d",
+                    "templateAttachments": []
+                },
+                {
+                    "type": 5,
+                    "questionText": "Untitled Label",
+                    "id": "602fbd49-3fc7-4b84-b031-626c3d655693",
+                    "templateAttachments": []
+                }
+            ],
+            "templateAttachments": []
+        }
+    ],
+    "creator": {
+        "id": "13778"
+    },
+    "name": "Data-Driven Automated Testing",
+    "id": "2508b32a-6da7-43ce-8d90-abb3a465ec20",
+    "createdAt": "2015-10-26T00:15:27.884Z",
+    "updatedAt": "2015-10-26T00:26:40.220Z"
+}

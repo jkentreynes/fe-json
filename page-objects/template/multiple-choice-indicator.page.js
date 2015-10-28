@@ -1,13 +1,11 @@
 'use strict';
 
-function multipleChoiceOptions () {
-	return element.all( by.css('div[ng-repeat="option in vm.model.answerOptions track by $index"]') );
+function multipleChoiceOptions ( indicator ) {
+	return indicator.all( by.css( 'div[ng-repeat="option in vm.model.answerOptions track by $index"]') );
 }
 
-function getMultipleChoiceOptions () {
-	return multipleChoiceOptions().then( function ( array ) {
-		return array;
-	} );
+function getMultipleChoiceOptions ( indicator ) {
+	return multipleChoiceOptions( indicator );
 }
 
 function getOptionText( element ) {
