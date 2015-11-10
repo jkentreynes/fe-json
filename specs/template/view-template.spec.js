@@ -14,7 +14,7 @@ describe( 'View Template', function () {
 	} );
 
 	it( 'should view a template', function () {
-		browser.get( 'http://192.168.99.100/#!/template/9c61387a-131e-470a-9ac4-8409a844bd90' );
+		browser.get( 'https://dev.observe.edivate.com/#!/template/02b5fd2b-bc13-40e9-a24e-d52178aa11e4' );
 	} );
 
 	it( 'should start scraping', function ( done ) {

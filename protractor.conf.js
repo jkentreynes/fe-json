@@ -14,10 +14,11 @@ exports.config = {
 
 	// The address of a running selenium server.
 	'seleniumAddress' : 'http://localhost:4444/wd/hub',
-
+//
 	// The address where our server under test is running
 	// 'baseUrl' : 'http://localhost:8000/build/',
-	'baseUrl' : 'http://192.168.99.100/',
+	// 'baseUrl' : 'http://192.168.99.100/',
+	'baseUrl' : 'https://dev.observe.edivate.com/#!/',
 	// Capabilities to be passed to the webdriver instance.
 	'capabilities' : {
 		'browserName' : 'chrome'
@@ -40,7 +41,7 @@ exports.config = {
 	// Set the browser's window size
 	'onPrepare' : function () {
 		var SpecReporter = require( 'jasmine-spec-reporter' );
-		browser.manage().window().setSize( 1280, 800 );
+		browser.manage().window().setSize( 1888, 1062 );
 		// browser.driver.manage().window().maximize();
 
 		// add jasmine spec reporter

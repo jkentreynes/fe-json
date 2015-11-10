@@ -1,8 +1,8 @@
 'use strict';
 
-( function () {
+function searchTemplate () {
+	return element( by.model( 'vm.searchTemplate[ vm.searchField ]' ) );
+	// return element( by.css( 'class="form-group template-forms table-grid"' ) ).getAttribute();
+}
 
-	function ViewTemplate () {
-		this.
-	}
-} )();
+exports.getTemplateName = getTemplateName;
